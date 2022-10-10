@@ -10,11 +10,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Machine Learning, Computer Vision, Convolutional Models etc.
 - 📫 How to reach me: rafathasankhan@gmail.com
 - 😄 Pronouns: he/him
-
+- ⚡ Fun fact: I can resist anything but temptation.
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- ⚡ Fun fact: ...
+
 -->
 
 ### Stats :memo:
