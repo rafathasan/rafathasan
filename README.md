@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafathasan" alt="rafathasan" /></a> </p>
 
-- 🔭 I’m currently working toward **applying for higher study.**
+- 🔭 I’m currently working toward **higher study.**
 
 - 🌱 I’m currently learning **to effectively collaborate in team.**
 
