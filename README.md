@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafat Hasan</h1>
-<--
-<h3 align="center">Not everyone likes me, but not everyone matters.</h3>
--->
+<!-- <h3 align="center">Not everyone likes me, but not everyone matters.</h3> -->
 <h3 align="center">There is an easy way and a hard way. The hard part is finding the easy way.</h3>
 
 
