@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rafathasankhan@gmail.com**
 
-- ⚡ Fun fact: **I can resist anything but temptation.**
+- ⚡ Fun fact: **There's a 50% chance that two people will share a birthday in a group of 23 people.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
